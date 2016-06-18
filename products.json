@@ -3,7 +3,24 @@
       "name": "Exotic Salad",
       "price": "45",
       "desc": "(Iceberg Lettuce,Carrot,Red radish/ white Radish/Broccoli(subject to availability),Red/Green cabbage,Cherry tomatoes(Subject to availability),Red capsicum,Yellow capsicum)",
-      "img": "exoticsalad"
+      "img": "exoticsalad",
+      "contains": [
+          "Iceberg Lettuce",
+          "Carrot",
+          "Red radish/ white Radish/Broccoli(subject to availability)",
+          "Red/Green cabbage",
+          "Cherry tomatoes(Subject to availability)",
+          "Red capsicum",
+          "Yellow capsicum"
+      ],
+      "nourish": [
+          "Carotene",
+          "Vitamin A,K and C",
+          "Calcium",
+          "Folic Acid",
+          "Magnesium",
+          "Fibre"
+      ]
   }, {
       "id": "1",
       "name": "King Fru Salad",
