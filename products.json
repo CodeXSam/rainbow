@@ -3,8 +3,8 @@
       "name": "Exotic Salad",
       "price": "45",
       "desc": "(Iceberg Lettuce,Carrot,Red radish/ white Radish/Broccoli(subject to availability),Red/Green cabbage,Cherry tomatoes(Subject to availability),Red capsicum,Yellow capsicum)",
-      "img": "../img/exoticsalad.jpg",
-      "bigimg": "../img/big-exoticsalad.jpg",
+      "img": "img/exoticsalad.jpg",
+      "bigimg": "img/big-exoticsalad.jpg",
       "contains": [
           "Iceberg Lettuce",
           "Carrot",
@@ -27,54 +27,54 @@
       "name": "King Fru Salad",
       "price": "65",
       "desc": "(Apple,Melon,Pineapple,Cherry,GrapesMango)",
-      "img": "../img/kingfrusalad.jpg"
+      "img": "img/kingfrusalad.jpg"
   }, {
       "id": "2",
       "name": "Native Salad",
       "price": "35",
       "desc": "(Lettuce,Radish,Carrot,Armenian cucumber,Seedless cucumber,Beet root,Chilly)",
-      "img": "../img/nativesalad.jpg"
+      "img": "img/nativesalad.jpg"
   }, {
       "id": "3",
       "name": "Pasta Mix",
       "price": "35",
       "desc": "(Capsicum Red/Yellow/Green,Beans,Baby corn)",
-      "img": "../img/pastamix.jpg"
+      "img": "img/pastamix.jpg"
   }, {
       "id": "4",
       "name": "Poha Mix",
       "price": "35",
       "desc": "(Capsicum,Cabbage,Peas/beans,Baby corn)",
-      "img": "../img/pohamix.jpg"
+      "img": "img/pohamix.jpg"
   }, {
       "id": "5",
       "name": "Rice Vegetable Pulao Mix",
       "price": "35",
       "desc": "(Cauliflower,Beans,Capsicum,Potatoes,Onion,Peas)",
-      "img": "../img/ricevegpulao.jpg"
+      "img": "img/ricevegpulao.jpg"
   }, {
       "id": "6",
       "name": "Royal Fru Salad",
       "price": "35",
       "desc": "(Apple,Kiwi,Pineapple,Plum/PearI,imported grape)",
-      "img": "../img/royalfrusalad.jpg"
+      "img": "img/royalfrusalad.jpg"
   }, {
       "id": "7",
       "name": "Sandwich Mix",
       "price": "35",
       "desc": "(Cucumber,Lettuce,Shredded carrot,Tomatoes,Onions)",
-      "img": "../img/sandwichmix.jpg"
+      "img": "img/sandwichmix.jpg"
   }, {
       "id": "8",
       "name": "Vegan Slaw",
       "price": "35",
       "desc": "(Red cabbage,Green cabbage,Carrot,Lettuce)",
-      "img": "../img/veganslaw.jpg"
+      "img": "img/veganslaw.jpg"
   }, {
       "id": "9",
       "name": "Veggie Salad Fru",
       "price": "35",
       "desc": "(Apple,Lettuce,Grapes,Strawberries/Cherries,Carrots,Cucumber)",
-      "img": "../img/veggiefrusalad.jpg"
+      "img": "img/veggiefrusalad.jpg"
   }
 ]
